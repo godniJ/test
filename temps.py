@@ -20,7 +20,7 @@ if len(sys.argv) > 1:
 
     n = int(sys.argv[1])
 
-
+n=random.randint(5, 30)
 
 if n > 10000:
 
